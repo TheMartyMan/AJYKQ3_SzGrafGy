@@ -10,7 +10,7 @@ Teljesen játszható:
   
   * > A labda szebb, kerekebb mint a példában, át is lett méretezve (AJYKQ3)
   
-  * > A labada folyamatosan gyorsul minden csúszkáról pattanáskor, hogy gyorsítsuk és élvezhetőbbé tegyük a játékot (AJYKQ3)
+  * > A labada folyamatosan gyorsul minden pattanáskor, hogy gyorsítsuk és élvezhetőbbé tegyük a játékot (AJYKQ3)
   
   * > Pontrendszer: 10 élettel indul a bal oldal ('A' játékos) és a jobb oldal ('B' játékos), amikor a labda nem a csúszkához ér, levon az adott játékostól egy életet.
   Amint valamelyik játékosnak 0 élete lesz, a játék jelzi a győztes felet, illetve egyből be is zárul.
