@@ -5,7 +5,7 @@
                                                           -------Változtatások az órai példához képest-------
                                                           
 Teljesen játszható:
-  *A labda különbséget tesz a csúszkák és az ablakszélek között. A labda "érzékeli" a csúszkák helyzetét,
+ * > A labda különbséget tesz a csúszkák és az ablakszélek között. A labda "érzékeli" a csúszkák helyzetét,
   és aszerint pattan vissza vagy a csúszkáról, vagy az ablak széléről (DJ7PNE)
   
   *A labda szebb, kerekebb mint a példában, át is lett méretezve (AJYKQ3)
