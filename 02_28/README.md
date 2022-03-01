@@ -2,7 +2,7 @@
 
 ## Készítette László Andrea DJ7PNE és Garamszegi Márton AJYKQ3
 
-                                                 -------Változtatások az órai példához képest-------
+                                              -------Változtatások az órai példához képest-------
                                                           
 Teljesen játszható:
  * > A labda különbséget tesz a csúszkák és az ablakszélek között. A labda "érzékeli" a csúszkák helyzetét,
