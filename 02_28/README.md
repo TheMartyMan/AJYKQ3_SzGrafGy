@@ -17,4 +17,4 @@ Teljesen játszható:
   
   * > A csúszkák színe egységesítve lett (piros) (AJYKQ3)
   
-  ** A változtatások nem igényelnek plusz make parancsot, libeket vagy forrásfájlokat, ugyan úgy építhető mint órán. **
+  **A változtatások nem igényelnek plusz make parancsot, libeket vagy forrásfájlokat, ugyan úgy építhető mint órán.**
