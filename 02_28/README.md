@@ -14,6 +14,7 @@ Teljesen játszható:
   
   * > Pontrendszer: 10 élettel indul a bal oldal ('A' játékos) és a jobb oldal ('B' játékos), amikor a labda nem a csúszkához ér, levon az adott játékostól egy életet.
   Amint valamelyik játékosnak 0 élete lesz, a játék jelzi a győztes felet, illetve egyből be is zárul (AJYKQ3)
+  A parancssoron követhető a jelenlegi állás.
   
   * > A csúszkák színe egységesítve lett (piros) (AJYKQ3)
   
