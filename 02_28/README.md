@@ -1,6 +1,6 @@
-#Pong 2.0
+# Pong 2.0
 
-##Készítette László Andrea DJ7PNE és Garamszegi Márton AJYKQ3
+## Készítette László Andrea DJ7PNE és Garamszegi Márton AJYKQ3
 
                                                           -------Változtatások az órai példához képest-------
                                                           
